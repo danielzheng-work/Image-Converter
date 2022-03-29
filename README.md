@@ -1,7 +1,7 @@
 # Image-Converter
 <p float="left">
   <img src="https://github.com/danielzheng-work/Image-Converter/blob/main/img/before.jpg" width="45%" />
-  <img src="https://github.com/danielzheng-work/Image-Converter/blob/main/img/after.jpg" width="45%" height="120%" /> 
+  <img src="https://github.com/danielzheng-work/Image-Converter/blob/main/img/after.jpg" width="55%" /> 
 </p>
 
 ## Description
