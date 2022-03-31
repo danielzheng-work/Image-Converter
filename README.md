@@ -6,7 +6,7 @@
 
 ## Description
 
-Simple convert image file into ASCII art 
+This application provides a simple UI window for users to easily convert regular JPG or PNG images into ASCII art with progress message display.
 
 ## Getting Started
 
